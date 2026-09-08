@@ -60,4 +60,4 @@ Este gráfico confirma que la naturaleza del motivo determina fuertemente si la 
 En términos generales, considero que el problema de las interrupciones del servicio de agua en el Perú está más asociado al estado de la infraestructura de distribución (roturas y fugas) que a un incumplimiento deliberado de la normativa de programación de SUNASS. Lima y Arequipa concentran el mayor volumen de casos por su tamaño poblacional, pero departamentos más pequeños como Ayacucho muestran una proporción más alta de eventos imprevistos, lo que podría señalar diferencias en la calidad o antigüedad de su infraestructura, o en la capacidad de mantenimiento preventivo de sus empresas prestadoras. Una limitación importante que encontré en el dataset es la falta de precisión en el registro de duración de las interrupciones, que en la mayoría de los casos aparece estandarizada a bloques de 24 horas, lo que limita las conclusiones que se pueden extraer sobre el tiempo real que los usuarios permanecen sin servicio.
 
 ## Autor
-Brayan Esteban Reza Smith — Facultad de Economía, UNCP
+Esteban Reza Brayan Smith — Facultad de Economía, UNCP
